@@ -26,7 +26,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | nano | 9.2-r0 | main | GPL-3.0-or-later | https://www.nano-editor.org |
 | ncurses-terminfo | 6.6_p20260608-r0 | main | MIT | https://invisible-island.net/ncurses/ |
 | ps2-firmware | 0.2-r3 | main | GPL-2.0-only | https://github.com/frno7/iopmod |
-| ps2linux-base | 0.2-r7 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| ps2linux-base | 0.2-r8 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | rsync | 3.4.4-r0 | community | GPL-3.0-or-later | https://rsync.samba.org |
 | sqlite | 3.53.4-r0 | community | blessing | https://sqlite.org |
 | tzdata-belem | 2026.10.30-r0 | community | LicenseRef-Public-Domain | https://www.iana.org/time-zones |
