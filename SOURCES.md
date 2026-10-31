@@ -13,7 +13,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | dropbear | 2026.94-r0 | main | MIT | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
-| emotion-desktop | 0.1.0-r3 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-desktop | 0.1.0-r4 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-rss | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-sdk-tools | 0.9.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-weather | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
@@ -26,7 +26,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | nano | 9.2-r0 | main | GPL-3.0-or-later | https://www.nano-editor.org |
 | ncurses-terminfo | 6.6_p20260608-r0 | main | MIT | https://invisible-island.net/ncurses/ |
 | ps2-firmware | 0.2-r3 | main | GPL-2.0-only | https://github.com/frno7/iopmod |
-| ps2linux-base | 0.2-r8 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| ps2linux-base | 0.2-r9 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | rsync | 3.4.4-r0 | community | GPL-3.0-or-later | https://rsync.samba.org |
 | sqlite | 3.53.4-r0 | community | blessing | https://sqlite.org |
 | tzdata-belem | 2026.10.30-r0 | community | LicenseRef-Public-Domain | https://www.iana.org/time-zones |
