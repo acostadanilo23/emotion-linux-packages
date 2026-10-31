@@ -13,7 +13,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | dropbear | 2026.94-r0 | main | MIT | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
-| emotion-desktop | 0.1.0-r4 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-desktop | 0.1.0-r5 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-rss | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-sdk-tools | 0.9.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-weather | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
