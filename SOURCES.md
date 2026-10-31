@@ -6,7 +6,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 
 | Pacote | Versão | Repositório | Licença | Origem do código |
 |---|---|---|---|---|
-| apk-tools | 3.0.8-r2 | main | GPL-2.0-only | https://gitlab.alpinelinux.org/alpine/apk-tools |
+| apk-tools | 3.0.8-r3 | main | GPL-2.0-only | https://gitlab.alpinelinux.org/alpine/apk-tools |
 | busybox | 1.36.1-r1 | main | GPL-2.0-only | https://busybox.net |
 | ca-certificates | 2026.7.22-r1 | main | MPL-2.0 | https://github.com/certifi/python-certifi |
 | curl | 8.22.0-r0 | main | curl | https://curl.se |
