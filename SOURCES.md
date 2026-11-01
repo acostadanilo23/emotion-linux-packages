@@ -16,7 +16,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
 | emotion-desktop | 0.1.0-r12 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
-| emotion-doom | 2026.10.11-r5 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
+| emotion-doom | 2026.10.11-r6 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
 | emotion-gb | 0.1.0-r1 | community | MIT | https://github.com/deltabeard/Peanut-GB |
 | emotion-kernel | 5.4.221-r2 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-md | 0.1.0-r1 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
@@ -30,6 +30,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | file | 5.47-r0 | community | BSD-2-Clause | https://www.darwinsys.com/file/ |
 | freedoom | 0.13.0-r0 | experimental | BSD-3-Clause | https://freedoom.github.io |
 | frotz | 2.55-r0 | community | GPL-2.0-or-later | https://davidgriffith.gitlab.io/frotz/ |
+| ftpd | 1.0-r0 | community | GPL-2.0-only | — |
 | git | 2.47.1-r0 | community | GPL-2.0-only | https://git-scm.com |
 | gzip | 1.14-r0 | main | GPL-3.0-or-later | https://www.gnu.org/software/gzip/ |
 | htop | 3.3.0-r0 | community | GPL-2.0-or-later | https://htop.dev/ |
