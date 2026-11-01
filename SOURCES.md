@@ -14,8 +14,10 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | dropbear | 2026.94-r0 | main | MIT | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
+| emotion-desktop | 0.1.0-r12 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-doom | 2026.10.11-r0 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
 | emotion-gb | 0.1.0-r0 | community | MIT | https://github.com/deltabeard/Peanut-GB |
-| emotion-kernel | 5.4.221-r1 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-kernel | 5.4.221-r2 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-md | 0.1.0-r0 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
 | emotion-nes | 0.1.0-r0 | community | GPL-2.0-only | https://github.com/libretro/libretro-fceumm |
 | emotion-rss | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
@@ -24,6 +26,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | emotion-weather | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | fastfetch | 2.54.0-r0 | community | MIT | https://github.com/fastfetch-cli/fastfetch |
 | file | 5.47-r0 | community | BSD-2-Clause | https://www.darwinsys.com/file/ |
+| freedoom | 0.13.0-r0 | experimental | BSD-3-Clause | https://freedoom.github.io |
 | gzip | 1.14-r0 | main | GPL-3.0-or-later | https://www.gnu.org/software/gzip/ |
 | less | 668-r0 | main | GPL-3.0-or-later OR BSD-2-Clause | https://www.greenwoodsoftware.com/less/ |
 | links | 2.30-r0 | community | GPL-2.0-or-later | http://links.twibright.com |
@@ -32,7 +35,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | nano | 9.2-r0 | main | GPL-3.0-or-later | https://www.nano-editor.org |
 | ncurses-terminfo | 6.6_p20260608-r0 | main | MIT | https://invisible-island.net/ncurses/ |
 | ps2-firmware | 0.2-r3 | main | GPL-2.0-only | https://github.com/frno7/iopmod |
-| ps2linux-base | 0.2-r10 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| ps2linux-base | 0.2-r13 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | rsync | 3.4.4-r0 | community | GPL-3.0-or-later | https://rsync.samba.org |
 | sqlite | 3.53.4-r0 | community | blessing | https://sqlite.org |
 | tmux | 3.5a-r0 | community | ISC | https://github.com/tmux/tmux |
@@ -61,6 +64,27 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 - jsonc 0.19: `aa716cd8d663c976b99b0f30f102ee1d8ef63146` em https://github.com/json-c/json-c.git
 - libubox master-da2d205: `da2d205a5cf3e877c45a2eec488218cbaf452e7d` em https://git.openwrt.org/project/libubox.git
 - usign master-c4c72b1: `c4c72b1b07945ee192361dc751291a7c98d6adcd` em https://git.openwrt.org/project/usign.git
+
+## Fontes dos pacotes (arquivo e SHA-256 usados no build)
+
+- doas 6.8.2: https://github.com/Duncaen/OpenDoas/releases/download/v6.8.2/opendoas-6.8.2.tar.xz (sha256 `4e98828056d6266bd8f2c93e6ecf12a63a71dbfd70a5ea99ccd4ab6d0745adf0`)
+- emotion-doom 2026.10.11: https://github.com/ozkl/doomgeneric/archive/e257a09527062bfb986b6e5e0780839b6cbd5b71.tar.gz (sha256 `26f8f60daa6c6e4d3c01e5eac9fb700d592dede803d13ac848154ff356b2a2e7`)
+- emotion-gb 0.1.0: https://github.com/deltabeard/Peanut-GB/archive/d0bcca771c83a2638c93a9ae61f3d51f226dc905.tar.gz (sha256 `f021361201be1abce25f1a4351e73ffbbf07070f54005fa64cd8320a8ececb84`)
+- emotion-md 0.1.0: https://github.com/libretro/Genesis-Plus-GX/archive/f27655b592ef43f317272d79883bcaa10d3ac8ad.tar.gz (sha256 `4720dce8f219994951fe5d021e433f3b107ad7c3c64b6295a6a12928f31a73ea`)
+- emotion-nes 0.1.0: https://github.com/libretro/libretro-fceumm/archive/ac0d00a7fc01166f84c7bac01d1084ebfd2b865e.tar.gz (sha256 `364affeeea3d91ab8de4ef2a333cb0ca4d7d8e8992e94366a270b32e309485ca`)
+- emotion-snes 0.1.0: https://github.com/libretro/snes9x2002/archive/6ffbf9ef4f0063e1f1b78a40d10c50fc52f2524c.tar.gz (sha256 `01c733054f8d02b26c53ab3f89ae0698e1f4edb55999dfa63c9a522fccb6382d`)
+- fastfetch 2.54.0: https://codeload.github.com/fastfetch-cli/fastfetch/tar.gz/refs/tags/2.54.0 (sha256 `e6a0516364bc0a4991a588537ee2abb538b86db41f7d9dff795d49baec990529`)
+- file 5.47: https://astron.com/pub/file/file-5.47.tar.gz (sha256 `45672fec165cb4cc1358a2d76b5d57d22876dcb97ab169427ac385cbe1d5597a`)
+- gzip 1.14: https://ftp.gnu.org/gnu/gzip/gzip-1.14.tar.xz (sha256 `01a7b881bd220bfdf615f97b8718f80bdfd3f6add385b993dcf6efd14e8c0ac6`)
+- less 668: https://www.greenwoodsoftware.com/less/less-668.tar.gz (sha256 `2819f55564d86d542abbecafd82ff61e819a3eec967faa36cd3e68f1596a44b8`)
+- links 2.30: http://links.twibright.com/download/links-2.30.tar.bz2 (sha256 `c4631c6b5a11527cdc3cb7872fc23b7f2b25c2b021d596be410dadb40315f166`)
+- lua 5.4.9: https://www.lua.org/ftp/lua-5.4.9.tar.gz (sha256 `2335b6c582a52654f94612bf10d2f4672805d05329aa6568b1d8cd9e5c6fb8e6`)
+- nano 9.2: https://www.nano-editor.org/dist/v9/nano-9.2.tar.xz (sha256 `05ecb99247b782e8a5b3a25ed4101dd034b0236902f7449bc9795b717642f7e9`)
+- ncurses-terminfo 6.6_p20260608: https://invisible-island.net/archives/ncurses/current/ncurses-6.6-20260608.tgz (sha256 `3b91eb714ba61b9ebfcfe09cf8e7c1c45cf2e8a6282f5887fb942db514ae93bd`)
+- rsync 3.4.4: https://github.com/RsyncProject/rsync/releases/download/v3.4.4/rsync-3.4.4.tar.gz (sha256 `bd88cf82fa653da32314fb229136407c5c90f80d1758d8f4b091767877d8fa96`)
+- sqlite 3.53.4: http://archive.ubuntu.com/ubuntu/pool/main/s/sqlite3/sqlite3_3.53.4.orig.tar.xz (sha256 `05366adc8ee80c6b1faa71285b49d133c2121238ca58934b077fdeb95934abd4`)
+- tmux 3.5a: https://github.com/tmux/tmux/releases/download/3.5a/tmux-3.5a.tar.gz (sha256 `16216bd0877170dfcc64157085ba9013610b12b082548c7c9542cc0103198951`)
+- xz 5.8.3: https://github.com/tukaani-project/xz/releases/download/v5.8.3/xz-5.8.3.tar.xz (sha256 `fff1ffcf2b0da84d308a14de513a1aa23d4e9aa3464d17e64b9714bfdd0bbfb6`)
 - util-macros 1.20.2: https://www.x.org/archive/individual/util/util-macros-1.20.2.tar.gz (sha256 `f642f8964d81acdf06653fdf9dbc210c43ce4bd308bd644a8d573148d0ced76b`)
 - xorgproto 2021.5: https://www.x.org/archive/individual/proto/xorgproto-2021.5.tar.bz2 (sha256 `aa2f663b8dbd632960b24f7477aa07d901210057f6ab1a1db5158732569ca015`)
 - xtrans 1.5.0: https://www.x.org/archive/individual/lib/xtrans-1.5.0.tar.gz (sha256 `a806f8a92f879dcd0146f3f1153fdffe845f2fc0df9b1a26c19312b7b0a29c86`)
