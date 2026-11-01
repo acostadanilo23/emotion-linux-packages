@@ -16,7 +16,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
 | emotion-desktop | 0.1.0-r12 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
-| emotion-doom | 2026.10.11-r6 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
+| emotion-doom | 2026.10.11-r8 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
 | emotion-gb | 0.1.0-r1 | community | MIT | https://github.com/deltabeard/Peanut-GB |
 | emotion-kernel | 5.4.221-r2 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-md | 0.1.0-r1 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
@@ -31,6 +31,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | freedoom | 0.13.0-r0 | experimental | BSD-3-Clause | https://freedoom.github.io |
 | frotz | 2.55-r0 | community | GPL-2.0-or-later | https://davidgriffith.gitlab.io/frotz/ |
 | ftpd | 1.0-r0 | community | GPL-2.0-only | — |
+| gawk | 5.3.1-r0 | community | GPL-3.0-or-later | https://www.gnu.org/software/gawk/ |
 | git | 2.47.1-r0 | community | GPL-2.0-only | https://git-scm.com |
 | gzip | 1.14-r0 | main | GPL-3.0-or-later | https://www.gnu.org/software/gzip/ |
 | htop | 3.3.0-r0 | community | GPL-2.0-or-later | https://htop.dev/ |
@@ -42,8 +43,11 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | nano | 9.2-r0 | main | GPL-3.0-or-later | https://www.nano-editor.org |
 | ncdu | 1.20-r0 | community | MIT | https://dev.yorhel.nl/ncdu |
 | ncurses-terminfo | 6.6_p20260608-r0 | main | MIT | https://invisible-island.net/ncurses/ |
+| ne | 3.3.4-r0 | community | GPL-3.0-or-later | https://ne.di.unimi.it |
+| ninvaders | 0.1.1-r0 | community | GPL-2.0-or-later | https://ninvaders.sourceforge.net |
 | ps2-firmware | 0.2-r3 | main | GPL-2.0-only | https://github.com/frno7/iopmod |
 | ps2linux-base | 0.2-r13 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| rhash | 1.4.5-r0 | community | 0BSD | https://rhash.sourceforge.net |
 | rsync | 3.4.4-r0 | community | GPL-3.0-or-later | https://rsync.samba.org |
 | sqlite | 3.53.4-r0 | community | blessing | https://sqlite.org |
 | tmux | 3.5a-r0 | community | ISC | https://github.com/tmux/tmux |
@@ -86,6 +90,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 - fastfetch 2.54.0: https://codeload.github.com/fastfetch-cli/fastfetch/tar.gz/refs/tags/2.54.0 (sha256 `e6a0516364bc0a4991a588537ee2abb538b86db41f7d9dff795d49baec990529`)
 - file 5.47: https://astron.com/pub/file/file-5.47.tar.gz (sha256 `45672fec165cb4cc1358a2d76b5d57d22876dcb97ab169427ac385cbe1d5597a`)
 - frotz 2.55: https://gitlab.com/DavidGriffith/frotz/-/archive/2.55/frotz-2.55.tar.gz (sha256 `a8c4c4d79a2aa9b39e0efbbd3e0803f1dc5ef36f75f2c2945e295d190575eb09`)
+- gawk 5.3.1: https://ftp.gnu.org/gnu/gawk/gawk-5.3.1.tar.xz (sha256 `694db764812a6236423d4ff40ceb7b6c4c441301b72ad502bb5c27e00cd56f78`)
 - git 2.47.1: https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.47.1.tar.xz (sha256 `f3d8f9bb23ae392374e91cd9d395970dabc5b9c5ee72f39884613cd84a6ed310`)
 - gzip 1.14: https://ftp.gnu.org/gnu/gzip/gzip-1.14.tar.xz (sha256 `01a7b881bd220bfdf615f97b8718f80bdfd3f6add385b993dcf6efd14e8c0ac6`)
 - htop 3.3.0: https://github.com/htop-dev/htop/releases/download/3.3.0/htop-3.3.0.tar.xz (sha256 `a69acf9b42ff592c4861010fce7d8006805f0d6ef0e8ee647a6ee6e59b743d5c`)
@@ -96,6 +101,9 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 - nano 9.2: https://www.nano-editor.org/dist/v9/nano-9.2.tar.xz (sha256 `05ecb99247b782e8a5b3a25ed4101dd034b0236902f7449bc9795b717642f7e9`)
 - ncdu 1.20: https://dev.yorhel.nl/download/ncdu-1.20.tar.gz (sha256 `5fe2bb841abe72374bb242dbb93293c4ae053078432d896a7481b2ff10be9572`)
 - ncurses-terminfo 6.6_p20260608: https://invisible-island.net/archives/ncurses/current/ncurses-6.6-20260608.tgz (sha256 `3b91eb714ba61b9ebfcfe09cf8e7c1c45cf2e8a6282f5887fb942db514ae93bd`)
+- ne 3.3.4: https://github.com/vigna/ne/archive/refs/tags/3.3.4.tar.gz (sha256 `6958b5cd051d85dcdebbf45aeed2af077346a58d1d18ad14e1db477ce5519d29`)
+- ninvaders 0.1.1: https://downloads.sourceforge.net/project/ninvaders/ninvaders/0.1.1/ninvaders-0.1.1.tar.gz (sha256 `bfbc5c378704d9cf5e7fed288dac88859149bee5ed0850175759d310b61fd30b`)
+- rhash 1.4.5: https://github.com/rhash/RHash/archive/refs/tags/v1.4.5.tar.gz (sha256 `6db837e7bbaa7c72c5fd43ca5af04b1d370c5ce32367b9f6a1f7b49b2338c09a`)
 - rsync 3.4.4: https://github.com/RsyncProject/rsync/releases/download/v3.4.4/rsync-3.4.4.tar.gz (sha256 `bd88cf82fa653da32314fb229136407c5c90f80d1758d8f4b091767877d8fa96`)
 - sqlite 3.53.4: http://archive.ubuntu.com/ubuntu/pool/main/s/sqlite3/sqlite3_3.53.4.orig.tar.xz (sha256 `05366adc8ee80c6b1faa71285b49d133c2121238ca58934b077fdeb95934abd4`)
 - tmux 3.5a: https://github.com/tmux/tmux/releases/download/3.5a/tmux-3.5a.tar.gz (sha256 `16216bd0877170dfcc64157085ba9013610b12b082548c7c9542cc0103198951`)
