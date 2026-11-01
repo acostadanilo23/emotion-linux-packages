@@ -10,26 +10,34 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | busybox | 1.36.1-r1 | main | GPL-2.0-only | https://busybox.net |
 | ca-certificates | 2026.7.22-r1 | main | MPL-2.0 | https://github.com/certifi/python-certifi |
 | curl | 8.22.0-r0 | main | curl | https://curl.se |
+| doas | 6.8.2-r0 | main | ISC | https://github.com/Duncaen/OpenDoas |
 | dropbear | 2026.94-r0 | main | MIT | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
-| emotion-desktop | 0.1.0-r5 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-gb | 0.1.0-r0 | community | MIT | https://github.com/deltabeard/Peanut-GB |
+| emotion-kernel | 5.4.221-r1 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-md | 0.1.0-r0 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
+| emotion-nes | 0.1.0-r0 | community | GPL-2.0-only | https://github.com/libretro/libretro-fceumm |
 | emotion-rss | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-sdk-tools | 0.9.0-r0 | community | custom | https://github.com/acostadanilo23 |
+| emotion-snes | 0.1.0-r0 | community | custom | https://github.com/libretro/snes9x2002 |
 | emotion-weather | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | fastfetch | 2.54.0-r0 | community | MIT | https://github.com/fastfetch-cli/fastfetch |
 | file | 5.47-r0 | community | BSD-2-Clause | https://www.darwinsys.com/file/ |
 | gzip | 1.14-r0 | main | GPL-3.0-or-later | https://www.gnu.org/software/gzip/ |
 | less | 668-r0 | main | GPL-3.0-or-later OR BSD-2-Clause | https://www.greenwoodsoftware.com/less/ |
+| links | 2.30-r0 | community | GPL-2.0-or-later | http://links.twibright.com |
 | linux-modules | 5.4.221-r3 | main | GPL-2.0-only | https://github.com/frno7/linux |
 | lua | 5.4.9-r0 | community | MIT | https://www.lua.org |
 | nano | 9.2-r0 | main | GPL-3.0-or-later | https://www.nano-editor.org |
 | ncurses-terminfo | 6.6_p20260608-r0 | main | MIT | https://invisible-island.net/ncurses/ |
 | ps2-firmware | 0.2-r3 | main | GPL-2.0-only | https://github.com/frno7/iopmod |
-| ps2linux-base | 0.2-r9 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| ps2linux-base | 0.2-r10 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | rsync | 3.4.4-r0 | community | GPL-3.0-or-later | https://rsync.samba.org |
 | sqlite | 3.53.4-r0 | community | blessing | https://sqlite.org |
+| tmux | 3.5a-r0 | community | ISC | https://github.com/tmux/tmux |
 | tzdata-belem | 2026.10.30-r0 | community | LicenseRef-Public-Domain | https://www.iana.org/time-zones |
+| tzdata-extra | 2026.10.31-r0 | community | LicenseRef-Public-Domain | https://www.iana.org/time-zones |
 | xz | 5.8.3-r0 | main | 0BSD AND GPL-2.0-or-later | https://tukaani.org/xz/ |
 | zapc | 0.1.0-r0 | community | MIT AND Apache-2.0 | https://github.com/acostadanilo23 |
 
