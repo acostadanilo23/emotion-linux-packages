@@ -16,7 +16,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
 | emotion-desktop | 0.1.0-r12 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
-| emotion-doom | 2026.10.11-r4 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
+| emotion-doom | 2026.10.11-r5 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
 | emotion-gb | 0.1.0-r1 | community | MIT | https://github.com/deltabeard/Peanut-GB |
 | emotion-kernel | 5.4.221-r2 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-md | 0.1.0-r1 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
@@ -30,6 +30,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | file | 5.47-r0 | community | BSD-2-Clause | https://www.darwinsys.com/file/ |
 | freedoom | 0.13.0-r0 | experimental | BSD-3-Clause | https://freedoom.github.io |
 | frotz | 2.55-r0 | community | GPL-2.0-or-later | https://davidgriffith.gitlab.io/frotz/ |
+| git | 2.47.1-r0 | community | GPL-2.0-only | https://git-scm.com |
 | gzip | 1.14-r0 | main | GPL-3.0-or-later | https://www.gnu.org/software/gzip/ |
 | htop | 3.3.0-r0 | community | GPL-2.0-or-later | https://htop.dev/ |
 | jq | 1.7.1-r0 | community | MIT | https://jqlang.github.io/jq/ |
@@ -84,6 +85,7 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 - fastfetch 2.54.0: https://codeload.github.com/fastfetch-cli/fastfetch/tar.gz/refs/tags/2.54.0 (sha256 `e6a0516364bc0a4991a588537ee2abb538b86db41f7d9dff795d49baec990529`)
 - file 5.47: https://astron.com/pub/file/file-5.47.tar.gz (sha256 `45672fec165cb4cc1358a2d76b5d57d22876dcb97ab169427ac385cbe1d5597a`)
 - frotz 2.55: https://gitlab.com/DavidGriffith/frotz/-/archive/2.55/frotz-2.55.tar.gz (sha256 `a8c4c4d79a2aa9b39e0efbbd3e0803f1dc5ef36f75f2c2945e295d190575eb09`)
+- git 2.47.1: https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.47.1.tar.xz (sha256 `f3d8f9bb23ae392374e91cd9d395970dabc5b9c5ee72f39884613cd84a6ed310`)
 - gzip 1.14: https://ftp.gnu.org/gnu/gzip/gzip-1.14.tar.xz (sha256 `01a7b881bd220bfdf615f97b8718f80bdfd3f6add385b993dcf6efd14e8c0ac6`)
 - htop 3.3.0: https://github.com/htop-dev/htop/releases/download/3.3.0/htop-3.3.0.tar.xz (sha256 `a69acf9b42ff592c4861010fce7d8006805f0d6ef0e8ee647a6ee6e59b743d5c`)
 - jq 1.7.1: https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-1.7.1.tar.gz (sha256 `478c9ca129fd2e3443fe27314b455e211e0d8c60bc8ff7df703873deeee580c2`)
