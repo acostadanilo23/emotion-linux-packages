@@ -16,13 +16,14 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
 | emotion-desktop | 0.1.0-r12 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-doom | 2026.10.11-r0 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
-| emotion-gb | 0.1.0-r0 | community | MIT | https://github.com/deltabeard/Peanut-GB |
+| emotion-gb | 0.1.0-r1 | community | MIT | https://github.com/deltabeard/Peanut-GB |
 | emotion-kernel | 5.4.221-r2 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
-| emotion-md | 0.1.0-r0 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
-| emotion-nes | 0.1.0-r0 | community | GPL-2.0-only | https://github.com/libretro/libretro-fceumm |
+| emotion-md | 0.1.0-r1 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
+| emotion-nes | 0.1.0-r1 | community | GPL-2.0-only | https://github.com/libretro/libretro-fceumm |
+| emotion-play | 0.1.0-r0 | community | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-rss | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-sdk-tools | 0.9.0-r0 | community | custom | https://github.com/acostadanilo23 |
-| emotion-snes | 0.1.0-r0 | community | custom | https://github.com/libretro/snes9x2002 |
+| emotion-snes | 0.1.0-r1 | community | custom | https://github.com/libretro/snes9x2002 |
 | emotion-weather | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | fastfetch | 2.54.0-r0 | community | MIT | https://github.com/fastfetch-cli/fastfetch |
 | file | 5.47-r0 | community | BSD-2-Clause | https://www.darwinsys.com/file/ |
