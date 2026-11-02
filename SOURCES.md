@@ -15,16 +15,21 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | dropbear | 2026.94-r0 | main | MIT | https://matt.ucc.asn.au/dropbear/dropbear.html |
 | e2fsprogs | 1.47.4-r0 | main | GPL-2.0-only | https://e2fsprogs.sourceforge.net |
 | emotion-browser | 0.1.0-r0 | community | custom AND Bitstream-Vera AND Apache-2.0 | https://github.com/acostadanilo23 |
-| emotion-desktop | 0.1.0-r13 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
-| emotion-doom | 2026.10.11-r8 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
-| emotion-gb | 0.1.0-r1 | community | MIT | https://github.com/deltabeard/Peanut-GB |
-| emotion-kernel | 5.4.221-r2 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
-| emotion-md | 0.1.0-r1 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
-| emotion-nes | 0.1.0-r1 | community | GPL-2.0-only | https://github.com/libretro/libretro-fceumm |
-| emotion-play | 0.1.0-r0 | community | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-correio | 0.1.0-r2 | experimental | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-desktop | 0.1.0-r22 | experimental | GPL-2.0-or-later AND MIT AND LGPL-2.1-or-later AND custom | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-doom | 2026.10.11-r15 | experimental | GPL-2.0-or-later | https://github.com/ozkl/doomgeneric |
+| emotion-gb | 0.2.0-r2 | community | MIT | https://github.com/Mr-PauI/Walnut-CGB |
+| emotion-kernel | 5.4.221-r12 | experimental | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-md | 0.1.0-r12 | community | custom | https://github.com/libretro/Genesis-Plus-GX |
+| emotion-nes | 0.1.0-r12 | community | GPL-2.0-only | https://github.com/libretro/libretro-fceumm |
+| emotion-planilha | 0.1.0-r1 | experimental | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-play | 0.1.0-r7 | community | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-rss | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | emotion-sdk-tools | 0.9.0-r0 | community | custom | https://github.com/acostadanilo23 |
-| emotion-snes | 0.1.0-r1 | community | custom | https://github.com/libretro/snes9x2002 |
+| emotion-snes | 0.1.0-r12 | community | custom | https://github.com/libretro/snes9x2002 |
+| emotion-som | 0.1.0-r0 | experimental | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-texto | 0.1.0-r1 | experimental | GPL-2.0-or-later | https://github.com/acostadanilo23/Emotion-Linux |
+| emotion-video | 0.1.0-r7 | experimental | GPL-2.0-or-later AND MIT | https://github.com/acostadanilo23/Emotion-Linux |
 | emotion-weather | 0.1.0-r0 | community | custom | https://github.com/acostadanilo23 |
 | fastfetch | 2.54.0-r0 | community | MIT | https://github.com/fastfetch-cli/fastfetch |
 | file | 5.47-r0 | community | BSD-2-Clause | https://www.darwinsys.com/file/ |
@@ -44,8 +49,9 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 | ncdu | 1.20-r0 | community | MIT | https://dev.yorhel.nl/ncdu |
 | ncurses-terminfo | 6.6_p20260608-r0 | main | MIT | https://invisible-island.net/ncurses/ |
 | ne | 3.3.4-r0 | community | GPL-3.0-or-later | https://ne.di.unimi.it |
+| netsurf | 3.11-r10 | experimental | GPL-2.0-only AND MIT AND curl AND Apache-2.0 AND Libpng AND IJG AND LicenseRef-PublicDomain AND Bitstream-Vera | https://www.netsurf-browser.org |
 | ninvaders | 0.1.1-r0 | community | GPL-2.0-or-later | https://ninvaders.sourceforge.net |
-| ps2-firmware | 0.2-r3 | main | GPL-2.0-only | https://github.com/frno7/iopmod |
+| ps2-firmware | 0.2-r5 | main | GPL-2.0-only AND AFL-2.0 | https://github.com/frno7/iopmod |
 | ps2linux-base | 0.2-r13 | main | GPL-2.0-only | https://github.com/acostadanilo23/Emotion-Linux |
 | rhash | 1.4.5-r0 | community | 0BSD | https://rhash.sourceforge.net |
 | rsync | 3.4.4-r0 | community | GPL-3.0-or-later | https://rsync.samba.org |
@@ -83,10 +89,11 @@ a partir das versões fixadas abaixo, com patches e configurações do projeto.
 - doas 6.8.2: https://github.com/Duncaen/OpenDoas/releases/download/v6.8.2/opendoas-6.8.2.tar.xz (sha256 `4e98828056d6266bd8f2c93e6ecf12a63a71dbfd70a5ea99ccd4ab6d0745adf0`)
 - dosfstools 4.2: https://github.com/dosfstools/dosfstools/releases/download/v4.2/dosfstools-4.2.tar.gz (sha256 `64926eebf90092dca21b14259a5301b7b98e7b1943e8a201c7d726084809b527`)
 - emotion-doom 2026.10.11: https://github.com/ozkl/doomgeneric/archive/e257a09527062bfb986b6e5e0780839b6cbd5b71.tar.gz (sha256 `26f8f60daa6c6e4d3c01e5eac9fb700d592dede803d13ac848154ff356b2a2e7`)
-- emotion-gb 0.1.0: https://github.com/deltabeard/Peanut-GB/archive/d0bcca771c83a2638c93a9ae61f3d51f226dc905.tar.gz (sha256 `f021361201be1abce25f1a4351e73ffbbf07070f54005fa64cd8320a8ececb84`)
+- emotion-gb 0.2.0: https://github.com/Mr-PauI/Walnut-CGB/archive/a42c186917516cc9c80515ceae1121600a071628.tar.gz (sha256 `ccfbe860154846e21e9e86df898927204d5dbbce935cbe368fb6f380d35feb02`)
 - emotion-md 0.1.0: https://github.com/libretro/Genesis-Plus-GX/archive/f27655b592ef43f317272d79883bcaa10d3ac8ad.tar.gz (sha256 `4720dce8f219994951fe5d021e433f3b107ad7c3c64b6295a6a12928f31a73ea`)
 - emotion-nes 0.1.0: https://github.com/libretro/libretro-fceumm/archive/ac0d00a7fc01166f84c7bac01d1084ebfd2b865e.tar.gz (sha256 `364affeeea3d91ab8de4ef2a333cb0ca4d7d8e8992e94366a270b32e309485ca`)
 - emotion-snes 0.1.0: https://github.com/libretro/snes9x2002/archive/6ffbf9ef4f0063e1f1b78a40d10c50fc52f2524c.tar.gz (sha256 `01c733054f8d02b26c53ab3f89ae0698e1f4edb55999dfa63c9a522fccb6382d`)
+- emotion-video 0.1.0: https://downloads.sourceforge.net/project/mad/libmad/0.15.1b/libmad-0.15.1b.tar.gz (sha256 `bbfac3ed6bfbc2823d3775ebb931087371e142bb0e9bb1bee51a76a6e0078690`)
 - fastfetch 2.54.0: https://codeload.github.com/fastfetch-cli/fastfetch/tar.gz/refs/tags/2.54.0 (sha256 `e6a0516364bc0a4991a588537ee2abb538b86db41f7d9dff795d49baec990529`)
 - file 5.47: https://astron.com/pub/file/file-5.47.tar.gz (sha256 `45672fec165cb4cc1358a2d76b5d57d22876dcb97ab169427ac385cbe1d5597a`)
 - frotz 2.55: https://gitlab.com/DavidGriffith/frotz/-/archive/2.55/frotz-2.55.tar.gz (sha256 `a8c4c4d79a2aa9b39e0efbbd3e0803f1dc5ef36f75f2c2945e295d190575eb09`)
